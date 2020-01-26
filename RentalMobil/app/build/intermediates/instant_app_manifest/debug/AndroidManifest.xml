@@ -19,18 +19,18 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.azhar.rentalmobil.activity.MainActivity" >
+        <activity android:name="com.azhar.rentaloutdoor.activity.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.azhar.rentalmobil.activity.DaftarMobilActivity" />
-        <activity android:name="com.azhar.rentalmobil.activity.PenyewaActivity" />
-        <activity android:name="com.azhar.rentalmobil.activity.SewaMobilActivity" />
-        <activity android:name="com.azhar.rentalmobil.activity.DetailMobilActivity" />
-        <activity android:name="com.azhar.rentalmobil.activity.DetailPenyewaActivity" />
+        <activity android:name="com.azhar.rentaloutdoor.activity.DaftarMobilActivity" />
+        <activity android:name="com.azhar.rentaloutdoor.activity.PenyewaActivity" />
+        <activity android:name="com.azhar.rentaloutdoor.activity.SewaMobilActivity" />
+        <activity android:name="com.azhar.rentaloutdoor.activity.DetailMobilActivity" />
+        <activity android:name="com.azhar.rentaloutdoor.activity.DetailPenyewaActivity" />
     </application>
 
 </manifest>

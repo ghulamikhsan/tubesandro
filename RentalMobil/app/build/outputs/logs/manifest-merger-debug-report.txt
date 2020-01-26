@@ -42,7 +42,7 @@ INJECTED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/Renta
 INJECTED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:2:1-26:12
 INJECTED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:3:5-36
+		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml
 		INJECTED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -79,10 +79,10 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/ghula
 		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:11:9-40
-activity#com.azhar.rentalmobil.activity.MainActivity
+activity#com.azhar.rentaloutdoor.activity.MainActivity
 ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:12:19-56
+		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:12:19-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
@@ -93,26 +93,26 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:16:27-74
-activity#com.azhar.rentalmobil.activity.DaftarMobilActivity
-ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:19:9-66
+activity#com.azhar.rentaloutdoor.activity.DaftarMobilActivity
+ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:19:9-89
 	android:name
-		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:19:19-63
-activity#com.azhar.rentalmobil.activity.PenyewaActivity
-ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:20:9-62
+		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:19:19-86
+activity#com.azhar.rentaloutdoor.activity.PenyewaActivity
+ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:20:9-85
 	android:name
-		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:20:19-59
-activity#com.azhar.rentalmobil.activity.SewaMobilActivity
-ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:21:9-64
+		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:20:19-82
+activity#com.azhar.rentaloutdoor.activity.SewaMobilActivity
+ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:21:9-87
 	android:name
-		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:21:19-61
-activity#com.azhar.rentalmobil.activity.DetailMobilActivity
-ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:22:9-66
+		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:21:19-84
+activity#com.azhar.rentaloutdoor.activity.DetailMobilActivity
+ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:22:9-89
 	android:name
-		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:22:19-63
-activity#com.azhar.rentalmobil.activity.DetailPenyewaActivity
-ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:23:9-68
+		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:22:19-86
+activity#com.azhar.rentaloutdoor.activity.DetailPenyewaActivity
+ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:23:9-91
 	android:name
-		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:23:19-65
+		ADDED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml:23:19-88
 uses-sdk
 INJECTED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ghulamikhsan/AndroidStudioProjects/Rental-Mobil-master/RentalMobil/app/src/main/AndroidManifest.xml
